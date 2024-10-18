@@ -18,8 +18,11 @@ impl Deck {
             }
         }
 
-        let deck: Deck = Deck { cards };
-        return deck;
+        Deck { cards }
+    }
+
+    fn shuffle(&mut self) {
+        self.cards.shuffle(&mut rand::thread_rng());
     }
 }
 
