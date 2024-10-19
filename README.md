@@ -35,6 +35,14 @@
 
 ![image](https://github.com/user-attachments/assets/f0fd3bd2-d66d-4710-9162-e01e8b35e114)
 
+## What are crates?
+
+![image](https://github.com/user-attachments/assets/396a10fa-327c-4726-a1e2-c1cc40d8aa45)
+
+![image](https://github.com/user-attachments/assets/63c96625-f8bb-4a2b-a5b6-f6c0ac810ddb)
+
+
+
 
 
 
