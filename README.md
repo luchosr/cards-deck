@@ -54,8 +54,11 @@
 ![image](https://github.com/user-attachments/assets/50a61e2e-6d99-44b8-87ba-06d0a5be70ba)
 
 ## How do we implements structs?
-
 ![image](https://github.com/user-attachments/assets/bc63bd89-81f1-4292-80dc-5a0ee1598ba2)
+
+## General Review
+![image](https://github.com/user-attachments/assets/3dde4083-8e44-4b06-8f53-3a70f69e7fb5)
+
 
 
 
