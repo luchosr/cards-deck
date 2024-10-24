@@ -44,6 +44,23 @@
 ## How to use crates?
 ![image](https://github.com/user-attachments/assets/b6aeee38-1dcc-4d73-b60c-f03991b7db90)
 
+## How 'use' es used?
+![image](https://github.com/user-attachments/assets/f97c3754-e93a-45cd-89fa-b58b4f752012)
+
+## What are attributes??
+![image](https://github.com/user-attachments/assets/c6a79796-fd79-4b2d-a98f-54f85d943991)
+
+## How we use Structs?
+![image](https://github.com/user-attachments/assets/50a61e2e-6d99-44b8-87ba-06d0a5be70ba)
+
+## How do we implements structs?
+
+![image](https://github.com/user-attachments/assets/bc63bd89-81f1-4292-80dc-5a0ee1598ba2)
+
+
+
+
+
 
 
 
